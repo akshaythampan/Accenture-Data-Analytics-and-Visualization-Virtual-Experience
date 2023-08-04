@@ -72,6 +72,11 @@ Present your PowerPoint presentation to the client and deliver the insights of y
 ## Jupyter Notebook
 The Whole Operations after cleaning the data is done on Jupyter: [Accenture Virtual](https://github.com/akshaythampan/Accenture-Data-Analytics-and-Visualization-Virtual-Experience/blob/main/Accenture_Virtual.ipynb)
 
+## Certificate:
+[Certificate](https://github.com/akshaythampan/Accenture-Data-Analytics-and-Visualization-Virtual-Experience/blob/main/Certificate.pdf)
+
+
+
 
 ---
-Note: This README file is a simplified and fictional representation of the Accenture Data Analytics and Visualization Virtual Experience. The content provided is for illustrative purposes only and does not represent the actual structure or tasks of the virtual experience.
+
